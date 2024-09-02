@@ -79,3 +79,7 @@ p {
   font-size: 1.8rem;
   line-height: 3rem;
 }
+
+.hidden {
+  display: none;
+}
